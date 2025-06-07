@@ -2,7 +2,7 @@
 
 Submitted by: **James Vo**
 
-This web app: **insert description**
+This web app: **Shows 10 most popuiar gym in the US, number of locations, number of states each covered, number of cities, and link to website**
 
 Time spent: **2** hours spent in total
 
